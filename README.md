@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**duypham2108/duypham2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=duypham2108)
 
 Here are some ideas to get you started:
 
