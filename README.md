@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=duypham2108)
-
-- 🔭 I'm second year PhD student from the Institute for Molecular Bioscience, the University of Queensland
+- 🔭 I'm PhD student from the Genomic and Machine Learning Labs, Institute for Molecular Bioscience, the University of Queensland
 - 🌱 I’m working on computational biology field
 - 👯 My expertise is in analysing omics data
 
