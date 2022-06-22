@@ -8,7 +8,7 @@
 <ul>
   <li><a href="https://github.com/BiomedicalMachineLearning/stLearn"><b>Spatial omics toolkit for downstream analysis.</b></a><br/><i>I am the lead developer, contributing in spatial analysis and meta spatial trajectory inference.</i></li>
   <li><a href="https://github.com/BiomedicalMachineLearning/stlearn_interactive"><b>Interactive webapp of the stLearn toolkit</b></a><br/><i>I am the lead developer</i></li>
-  <li><a href="https://github.com/BiomedicalMachineLearning/VGP"><b>Scalable PRSUP framework to run the trasfer PRS from large population to under-representative population </b></a><br/><i>I am the lead developer</i></li>
+  <li><a href="https://github.com/BiomedicalMachineLearning/VGP"><b>Scalable PRSUP framework to run the transfer PRS from large population to under-representative population </b></a><br/><i>I am the lead developer</i></li>
 </ul>
 <h3>My Blog (Vietnamese)</h3>
 <ul>
