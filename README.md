@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm PhD student from the Genomic and Machine Learning Labs, Institute for Molecular Bioscience, the University of Queensland
+- 🔭 I'm Senior Computational Biologist, Teichmann lab, Wellcome Sanger Institute
 - 🌱 I’m working on computational biology field
 - 👯 My expertise is in analysing omics data
 
