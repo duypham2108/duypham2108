@@ -18,6 +18,7 @@
 <p>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
 <a target="_blank"><img alt="R" src="https://img.shields.io/badge/R-%2312100E.svg?logo=R&style=for-the-badge&logoColor=blue"/></a> 
+<a target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-%2312100E.svg?logo=Javascript&style=for-the-badge&logoColor=yellow"/></a> 
   
 </p>
 
