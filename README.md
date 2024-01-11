@@ -12,7 +12,7 @@
 </ul>
 <h3>My Blog (Vietnamese)</h3>
 <ul>
-  <li><a href="https://rnaseqcoban.github.io/"><b>The basic course of analysing single cell RNA seqencing (scRNAseq)</b></a><br/><i>I am main author</i></li>
+  <li><a href="https://rnaseqcoban.github.io/"><b>The basic course of analysing single-cell RNA sequencing (scRNAseq)</b></a><br/><i>I am the main author</i></li>
 </ul>
 <h3>📄 Favorite Languages:</h3>
 <p>
