@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm Senior Computational Biologist, Teichmann lab, Wellcome Sanger Institute
-- 🌱 I’m working on computational biology field
+- 🔭 I'm Senior Computational Biologist, Teichmann lab, Cambridge Stem Cell Institute
+- 🌱 I’m working on the computational biology field
 - 👯 My expertise is in analysing omics data
 
 <h3>My project</h3>
